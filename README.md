@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is the official repository of https://nezoglobal.com
 
 <!--
 **NezoGlobal/NezoGlobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
